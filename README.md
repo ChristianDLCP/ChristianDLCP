@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Smaricraft">
-    <img src="https://img.shields.io/github/followers/Smaricraft?label=Comunidad&style=flat-square&color=42A5F5" alt="Followers" />
+  <a href="https://github.com/ChristianDLCP">
+    <img src="https://img.shields.io/github/followers/ccruper0503?label=Comunidad&style=flat-square&color=42A5F5" alt="Followers" />
   </a>
-  <a href="https://github.com/Smaricraft">
-    <img src="https://img.shields.io/github/stars/Smaricraft?label=Estrellas&style=flat-square&color=42A5F5" alt="Stars" />
+  <a href="https://github.com/ccruper0503">
+    <img src="https://img.shields.io/github/stars/ccruper0503?label=Estrellas&style=flat-square&color=42A5F5" alt="Stars" />
   </a>
 </p>
 
@@ -52,8 +52,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** afincado en 📍 M
 ### 📈 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smaricraft&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smaricraft&theme=radical&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianDLCP&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 ---
@@ -64,7 +63,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** afincado en 📍 M
   <a href="https://github.com/ccruper0503">
     <img src="https://img.shields.io/badge/Perfil_Principal-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/ccruper0503">
+  <a href="https://github.com/ChristianDLCP">
     <img src="https://img.shields.io/badge/Perfil_Estudiante-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="mailto:christiancartama@gmail.com">
